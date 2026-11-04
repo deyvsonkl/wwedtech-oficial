@@ -2,7 +2,7 @@
 
 Sistema omnichannel para lojas de bairro: **um estoque só** para a loja física, o site próprio, o WhatsApp e os marketplaces (Mercado Livre, Amazon, Shopee e outros). Tudo em tempo real: vendeu em um canal, o estoque cai em todos.
 
-A WedTech é vendida por consultores. O cliente pede proposta pelo site, o consultor monta a cotação com o preço de cada marketplace e de cada produto a cadastrar, o cliente aceita pelo link (com contrato) e a loja é criada já configurada.
+WedTech é vendida por consultores. O cliente pede proposta pelo site, o consultor monta a cotação com o preço de cada marketplace e de cada produto a cadastrar, o cliente aceita pelo link (com contrato) e a loja é criada já configurada.
 
 > **Protótipo funcional (MVP de demonstração).** As vitrines dos marketplaces são simuladas: não publicam anúncios nem chamam as APIs oficiais, e nenhum pagamento é processado. Veja [Limitações](#limitações).
 
